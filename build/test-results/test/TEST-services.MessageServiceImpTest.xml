@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="services.MessageServiceImpTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-09-28T12:32:10" hostname="Telenor-Digital-C02ZMY65MD6M.local" time="0.022">
+  <properties/>
+  <testcase name="TestConvertCuriositySol()" classname="services.MessageServiceImpTest" time="0.02"/>
+  <testcase name="convertCuriositySolThrowsExceptionIfDateInvalidFormat()" classname="services.MessageServiceImpTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
